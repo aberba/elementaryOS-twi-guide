@@ -11,7 +11,7 @@ Below are various platforms you can contact the community. You could also use ha
  Launchpad | https://launchpad.net/~akantranslators
  Facebook |  https://facebook.com/akantranslators
  Google+ | https://plus.google.com/communities/
-
+ Mailing List (Email) | - 
 
 ## Getting Started with the translation process
 Below is how you can help do the translation;
@@ -35,19 +35,41 @@ mean when performing them in practice.
 > * Do not do direct translation. Make sure your translation i a manner that appears natural and easy understandable.
 > * Try your best to make translations either less or equal to the length of the English version without loosing meaning and context.
 
+## Language Properties
+Item  | Value  | Remark
+--|---|--
+Language Name | Akan |
+Country of origin | Ghana | Also spoken in some parts of Togo and Cote D'voire
+ISO 300 Code | aka |
+ Plural Forms | nplurals=2; plural=(n > 1); |
+  |  |
+
 
 ## List of Akan Characters.
 Uppercase   | Lowercase  | Words Containing Character
 --|---|--
  Ɛ | ɛ  | Ɛdin, Intanɛt
+ - | έ | -
  Ɔ | ɔ  | Ɔgya
+ v | v | v
  … | … | Bue wɔ …
+Ã | ã | Fã, Mã
+- | á | Ná
+- | é | v
+Ũ | ũ | Mũ
+- | õ | v
+® | - | ® Original Inc.
+v | v | v
+v | v | v
+
 
 ## List of common terms and their Akan translations
+Each term has a marker such as **_(v)_**, **_(n)_**, **_(adj)_** indicating the term is either a **_nouns_**, **_verb_**, **_adjective_** respectively.
+
 English | Akan Singular  | Akan Plural  | Used in sentence or phrase | Notice
 --|---|---|--
- Internet | Intanɛt  | -  |  Kɔ `Intanɛt` so
- Software |  Dwumadie | Dwumadie Ahoroɔ  | Bue computer so `dwumadie` bi | This is in the conteɔt of computers as opposed to an event/occasion
+ Internet (n) | Intanɛt  | -  |  Kɔ `Intanɛt` so
+ Software (n) |  Dwumadie | Dwumadie Ahoroɔ  | Bue computer so `dwumadie` bi | This is in the context of computers as opposed to an event/occasion
   Copy (v) | Fa bi | - | `Fa` file no bi |
   Cut (v) | Fa | - | `Fa bi` kx baabi foforɔ |
   Delete (v) | Yi | - | `Yi` file fi computer no so |
