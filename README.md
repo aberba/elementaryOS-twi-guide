@@ -41,9 +41,23 @@ Uppercase   | Lowercase  | Words Containing Character
 --|---|--
  Ɛ | ɛ  | Ɛdin, Intanɛt
  Ɔ | ɔ  | Ɔgya
+ … | … | Bue wɔ …
 
 ## List of common terms and their Akan translations
-English | Akan Singular  | Akan Plural  | Used in sentence or phrase
+English | Akan Singular  | Akan Plural  | Used in sentence or phrase | Notice
 --|---|---|--
- Internet | Intanɛt  | -  |  Kɔ Intanɛt so
- Software |  Dwumadie | Dwumadie Ahoroɔ  | Bue computer so dwumadie bi
+ Internet | Intanɛt  | -  |  Kɔ `Intanɛt` so
+ Software |  Dwumadie | Dwumadie Ahoroɔ  | Bue computer so `dwumadie` bi | This is in the conteɔt of computers as opposed to an event/occasion
+  Copy (v) | Fa bi | - | `Fa` file no bi |
+  Cut (v) | Fa | - | `Fa bi` kx baabi foforɔ |
+  Delete (v) | Yi | - | `Yi` file fi computer no so |
+Paste (v) | Fa to ha | - | `Fa` file no `to ha` (paste file here) | Avoid direct trasn])
+Information (n) | Nsɛm | Nsɛm Ahoroɔ | Hwɛ file no ho `nsɛm` |
+ - | - | - | - | -
+ - | - | - | - | -
+ - | - | - | - | -
+ - | - | - | - | -
+ - | - | - | - | -
+ - | - | - | - | -
+ - | - | - | - | -
+ - | - | - | - | -
