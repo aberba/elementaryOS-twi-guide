@@ -24,6 +24,7 @@ I have made a [YouTube video](#) on how to do this as well.
 * Try your best to make translations phrases either less or equal to the length of the English version without loosing meaning and context.
 
 ## Language Properties
+
 Item  | Property
 -- | -- |
 Language Name | Akan
@@ -33,24 +34,26 @@ Plural Forms | nplurals=2; plural=(n > 1);
 
 
 ## List of Akan Characters.
-Uppercase | Lowercase | Example words
--- | -- | --
+
+Uppercase | Lowercase | Example words 
+-- | -- | -- |
 Ɛ | ɛ | Ɛdin, Intanɛt
-- | έ | ...
+n/a | έ | ...
 Ɔ | ɔ | Ɔgya
 … | … | Bue wɔ …
 Ã | ã | Fã, Mã
-- | á | Ná
-- | é | v
+n/a | á | Ná
+... | é | v
 Ũ | ũ | Mũ
-- | õ | v
-® | - | ® Adwuma LTD.
+... | õ | v
+® | ... | ® Adwuma LTD.
 
 
 ## List of common terms and their Akan translations
+
 Each term has a marker such as **_(v)_**, **_(n)_**, **_(adj)_** indicating the term is either a **_nouns_**, **_verb_**, **_adjective_** respectively.
 
-English | Akan Singular  | Akan Plural  | Used in sentence or phrase | Notice
+English | Akan Singular  | Akan Plural  | Used in sentence or phrase 
 -- | -- | -- | -- |
 Internet (n) | Intanɛt | ... | Kɔ `Intanɛt` so
 Software (n) | Dwumadie | Dwumadie Ahoroɔ | Bue computer so `dwumadie` bi | This is in the context of computers as opposed to an event/occasion
