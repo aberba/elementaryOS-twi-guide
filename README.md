@@ -34,12 +34,11 @@ Plural Forms | nplurals=2; plural=(n > 1);
 
 ## List of Akan Characters.
 Uppercase | Lowercase | Example words
--- | -- | -- |
- Ɛ | ɛ  | Ɛdin, Intanɛt
- - | έ | -
- Ɔ | ɔ  | Ɔgya
- v | v | v
- … | … | Bue wɔ …
+-- | -- | --
+Ɛ | ɛ | Ɛdin, Intanɛt
+- | έ | ...
+Ɔ | ɔ | Ɔgya
+… | … | Bue wɔ …
 Ã | ã | Fã, Mã
 - | á | Ná
 - | é | v
@@ -53,10 +52,10 @@ Each term has a marker such as **_(v)_**, **_(n)_**, **_(adj)_** indicating the 
 
 English | Akan Singular  | Akan Plural  | Used in sentence or phrase | Notice
 -- | -- | -- | -- |
- Internet (n) | Intanɛt  | -  |  Kɔ `Intanɛt` so
- Software (n) |  Dwumadie | Dwumadie Ahoroɔ  | Bue computer so `dwumadie` bi | This is in the context of computers as opposed to an event/occasion
-  Copy (v) | Fa bi | - | `Fa` file no bi |
-  Cut (v) | Fa | - | `Fa bi` kx baabi foforɔ |
-  Delete (v) | Yi | - | `Yi` file fi computer no so |
-Paste (v) | Fa to ha | - | `Fa` file no `to ha` (paste file here) | Avoid direct trasn])
+Internet (n) | Intanɛt | ... | Kɔ `Intanɛt` so
+Software (n) | Dwumadie | Dwumadie Ahoroɔ | Bue computer so `dwumadie` bi | This is in the context of computers as opposed to an event/occasion
+Copy (v) | Fa bi | ... | `Fa` file no bi |
+Cut (v) | Fa | ... | `Fa bi` kɔ baabi foforɔ 
+Delete (v) | Yi | ... | `Yi` file fi computer no so 
+Paste (v) | Fa to ha | ... | `Fa` file no `to ha` (paste file here) | Avoid direct trasn])
 Information (n) | Nsɛm | Nsɛm Ahoroɔ | Hwɛ file no ho `nsɛm` 
