@@ -6,7 +6,7 @@ This is an effort to translate [elementary OS](https://elementary.io), a compute
 
 You can [contact me](https://github.com/aberba) if you would like to help out.
 
-> I have made a [YouTube video](#) on how to contribute if you prefere video form.
+> I have made a [YouTube video](https://youtu.be/xs6uKQIhca4) on how to contribute if you prefere video form.
 
 ## Getting Started with the translation process
 Make sure you are well fairly good in speaking, reading and writing Twi to be able to qualify for this task.
@@ -17,7 +17,7 @@ With these in mind, here's how to get started in two easy steps:
 1. Read the [elementary OS tranlation guide](https://elementary.io/docs/translation-guide#translation-guide) to familirarize yourself with the translation process.
 2. Visit the elementary OS translation website, create an account, and start translating.
 
-I have made a [YouTube video](#) on how to do this as well.
+I have made a [YouTube video](https://youtu.be/xs6uKQIhca4) on how to do this as well.
 
 ### How to be a good translator
 * Do not do direct translation. Make sure your translation reads natural and easy understandable.
