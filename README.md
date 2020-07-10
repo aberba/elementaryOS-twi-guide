@@ -4,6 +4,8 @@
 
 This is an effort to translate [elementary OS](https://elementary.io), a computer operating system, to Twi (Akan) which is commonly spoken in Ghana. This will hopefully make it easily accessible to the many locals who can only read or speak Twi.
 
+You may read this [this blog](https://aberba.com/2020/translating-elementary-os-to-twi/) to learn more about why this is important. 
+
 You can [contact me](https://github.com/aberba) if you would like to help out.
 
 > I have made a [YouTube video](https://www.youtube.com/playlist?list=PL6M5AjwPmqHgx72Dgue4Hcb4dpnKfHbxV) on how to contribute if you prefere video form.
@@ -62,3 +64,6 @@ Cut (v) | Fa | ... | `Fa bi` kɔ baabi foforɔ
 Delete (v) | Yi | ... | `Yi` file fi computer no so 
 Paste (v) | Fa to ha | ... | `Fa` file no `to ha` (paste file here) | Avoid direct trasn])
 Information (n) | Nsɛm | Nsɛm Ahoroɔ | Hwɛ file no ho `nsɛm` 
+Translation (n) | nkyerɛase | Nsɛm Ahoroɔ | Hwɛ file no ho `nsɛm` 
+Library (n) | Nhomakorabea | Nhomakorabea | ...
+Color (n) | Mmuae | Mmuae | ...
