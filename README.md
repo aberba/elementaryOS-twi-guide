@@ -36,6 +36,7 @@ Plural Forms | nplurals=2; plural=(n > 1);
 
 
 ## List of Akan Characters.
+ÃãÉéƐɛέĨ ĩ Õ õŨũ ®ƆɔŨũ
 
 Uppercase | Lowercase | Example words 
 -- | -- | -- |
@@ -44,11 +45,12 @@ n/a | έ | ...
 Ɔ | ɔ | Ɔgya
 … | … | Bue wɔ …
 Ã | ã | Fã, Mã
-n/a | á | Ná
-... | é | v
+Ã | á | Ná
+É | é | n/a
+Ĩ | ĩ | Ataade no ayɛ `fĩ`
 Ũ | ũ | Mũ
-... | õ | v
-® | ... | ® Adwuma LTD.
+Õ | õ | v
+® | n/a | ® Adwuma LTD.
 
 
 ## List of common terms and their Akan translations
