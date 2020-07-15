@@ -49,7 +49,7 @@ n/a | έ | ...
 É | é | n/a
 Ĩ | ĩ | Ataade no ayɛ `fĩ`
 Ũ | ũ | Mũ
-Õ | õ | v
+Õ | õ | Mempɛ ade fõ
 ® | n/a | ® Adwuma LTD.
 
 
