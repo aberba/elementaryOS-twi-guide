@@ -1,6 +1,6 @@
 # elementary OS Twi Translation Guide
 
-![elementary OS](images/elementary-os.png)
+![elementary OS](images/appcenter.png)
 
 This is an effort to translate [elementary OS](https://elementary.io), a computer operating system, to Twi (Akan) which is commonly spoken in Ghana. This will hopefully make it easily accessible to the many locals who can only read or speak Twi.
 
@@ -8,7 +8,17 @@ You may read this [this blog](https://aberba.com/2020/translating-elementary-os-
 
 You can [contact me](https://github.com/aberba) if you would like to help out.
 
-> I have made a [YouTube video](https://www.youtube.com/playlist?list=PL6M5AjwPmqHgx72Dgue4Hcb4dpnKfHbxV) on how to contribute if you prefere video form.
+> I have made [YouTube videos](https://www.youtube.com/playlist?list=PL6M5AjwPmqHgx72Dgue4Hcb4dpnKfHbxV) on how to contribute if you prefer video form.
+
+## Screenshots
+
+See some screenshots of current translation work. Start contributing to help improve it. Watch [these videos](https://www.youtube.com/playlist?list=PL6M5AjwPmqHgx72Dgue4Hcb4dpnKfHbxV) to get started.
+
+<section style="display: flex; flex-direction: row; flex-wrap: wrap;">
+<img style="margin: 1em;" src="images/sound-indicator.png" alt="screenshot"/> 
+<img style="margin: 1em;" src="images/sound-indicator.png" alt="screenshot"/> 
+<img style="margin: 1em;" src="images/files-menu.png" alt="screenshot"/> 
+</section>
 
 ## Getting Started with the translation process
 Make sure you are well fairly good in speaking, reading and writing Twi to be able to qualify for this task.
@@ -19,7 +29,7 @@ With these in mind, here's how to get started in two easy steps:
 1. Read the [elementary OS tranlation guide](https://elementary.io/docs/translation-guide#translation-guide) to familirarize yourself with the translation process.
 2. Visit the elementary OS translation website, create an account, and start translating.
 
-I have made a [YouTube video](https://www.youtube.com/playlist?list=PL6M5AjwPmqHgx72Dgue4Hcb4dpnKfHbxV) on how to do this as well.
+I have made [YouTube videos](https://www.youtube.com/playlist?list=PL6M5AjwPmqHgx72Dgue4Hcb4dpnKfHbxV) on how to do this as well.
 
 ### How to be a good translator
 * Do not do direct translation. Make sure your translation reads natural and easy understandable.
@@ -38,7 +48,7 @@ Plural Forms | nplurals=2; plural=(n > 1);
 ## List of Akan Characters.
 ÃãÉéƐɛέĨ ĩ Õ õŨũ ®ƆɔŨũ
 
-Uppercase | Lowercase | Example words 
+Uppercase | Lowercase | Example word(s) 
 -- | -- | -- |
 Ɛ | ɛ | Ɛdin, Intanɛt
 n/a | έ | ...
@@ -47,7 +57,7 @@ n/a | έ | ...
 Ã | ã | Fã, Mã
 Ã | á | Ná
 É | é | n/a
-Ĩ | ĩ | Ataade no ayɛ `fĩ`
+Ĩ | ĩ | Ataade no ayɛ fĩ
 Ũ | ũ | Mũ
 Õ | õ | Mempɛ ade fõ
 ® | n/a | ® Adwuma LTD.
